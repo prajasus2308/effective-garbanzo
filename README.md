@@ -476,13 +476,6 @@ Contributions, corrections, and updates are welcome!
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting.
 
----
-
-## 📋 Credits
-
-- Huge credit to [@Schweinepriester](https://github.com/Schweinepriester) for the high-quality badge images and original research
-- Credit to [@drknzz](https://github.com/drknzz) for skin tone images and documentation
-- Inspired by [@Thinkright20](https://github.com/Thinkright20/Profile-Badges)'s Profile-Badges repository
 
 ---
 
